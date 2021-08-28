@@ -1,3 +1,4 @@
+
 [submodule "fundraiser-client"]
 	path = fundraiser-client
 	url = https://github.com/ryoukata/fundraiser-client.git
